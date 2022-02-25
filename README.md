@@ -20,4 +20,5 @@
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" color= "white" />]
+[<img align="left" alt="Insomnia" width="26px" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" style="padding-right:10px;"]
 </br>
