@@ -3,7 +3,7 @@
 
 ### I am a Software Developer and i can honestly say i have found my passion.
 - 💻 I'm currently working on projects im passionate about and learning along the way!
-- 🤓 I'm currently working towards `Google Data Analytics Certificate`](https://grow.google/certificates/data-analytics/#?modal_active=none)
+- 🤓 I'm currently working towards [`Google Data Analytics Certificate`](https://grow.google/certificates/data-analytics/#?modal_active=none)
 - 🤖 I like the Front-End !
 - 🐳 I Love the Back-End !
 - 👽 I guess thats why im a Full-Stack developer😎
