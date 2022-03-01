@@ -22,3 +22,7 @@
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;"/>
 </br>
+
+--- 
+
+[![Sadiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadiel0)](https://github.com/Sadiel0/github-readme-stats)
