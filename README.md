@@ -25,4 +25,4 @@
 
 --- 
 
-[![Sadiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadiel0)](https://github.com/Sadiel0/github-readme-stats)
+[![Sadiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadiel0&theme=algolia&show_icons=true)](https://github.com/Sadiel0/github-readme-stats)
