@@ -3,7 +3,7 @@
 
 ### I am a Software Developer and I can honestly say I have found my passion.
 - 💻 I'm currently working on projects im passionate about and learning along the way!
-- 🤓 I'm currently working towards [`Google's IT Support certificate`](https://www.coursera.org/professional-certificates/google-it-support?)
+- 🤓 I'm currently working towards my Associates in Computer Science in  [`Miami Dade College`](https://www.mdc.edu/)
 - 🤖 I like the Front-End !
 - 🐳 I Love the Back-End !
 - 👽 I guess thats why im a Full-Stack developer😎
