@@ -6,7 +6,7 @@
 - 🤓 I'm currently working towards my Associates in Cyber Security  in  [`Miami Dade College`](https://www.mdc.edu/)
 - 🐳 I Love the Back-End !
 - 💻 Future Penetration Tester/ Ethical Hacker !
-- 📝 CompTIA Network + and CompTIA Securit + certified.
+- 📝 CompTIA Network + and CompTIA Security + certified.
 - 💠 Taking one step at a time to achieve my goals.
 
 ### Languages used:
