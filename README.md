@@ -1,14 +1,13 @@
 
 ### Hello ! My name is Sadiel Almanza and I welcome you to me github! ####
 
-### I am a Software Developer and I can honestly say I have found my passion.
-- 💻 I'm currently working on projects im passionate about and learning along the way!
-- 🤓 I'm currently working towards my Associates in Computer Science in  [`Miami Dade College`](https://www.mdc.edu/)
-- 🤖 I like the Front-End !
+### I am IT Support Technician with software developing skills trying to break into the amazing world of Cyber Security!
+- 💻 I'm currently working on obtaining the [`PNPT` certification](https://certifications.tcm-sec.com/pnpt/).
+- 🤓 I'm currently working towards my Associates in Cyber Security  in  [`Miami Dade College`](https://www.mdc.edu/)
 - 🐳 I Love the Back-End !
-- 👽 I guess thats why im a Full-Stack developer😎
-- 📝 My Short-term goal for 2022 is to create applications that I will be proud of!
-- 💠 My Long-term goal is to become a Senior Software Developer capable of teachig up and coming developers how to code and help them achieve their dreams.
+- 💻 Future Penetration Tester/ Ethical Hacker !
+- 📝 CompTIA Network + and CompTIA Securit + certified.
+- 💠 Taking one step at a time to achieve my goals.
 
 ### Languages used:
 
