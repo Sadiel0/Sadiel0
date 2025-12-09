@@ -7,7 +7,6 @@ Welcome to my GitHub. I build systems that fuse **AI, automation, Web3, and cybe
 ## 🚀 What I’m Building
 - **AI Agents & Automation** → workflows, LinkedIn/content engines, security automations  
 - **Web3 Experiments** → wallet-integrated agents, smart contract prototypes, decentralized ops  
-- **Creative Projects** → [Ken Film](https://stalwart-entremet-86e74e.netlify.app/ken), Operator OS self-improvement app, cinematic AI content  
 - **Growth Stack Services** → AI-powered sites, chatbots, and local business automation  
 
 ---
