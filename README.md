@@ -1,6 +1,4 @@
-Here’s the same tone — direct, grounded — but aligned with where you’re actually going.
 
----
 
 # Hey, I'm Sadiel 👋
 
