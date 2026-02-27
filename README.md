@@ -1,22 +1,27 @@
- Hey, I'm Sadiel 👋
-
-I build practical tools at the intersection of **cloud security, automation, and AI** — things that actually run, detect real problems, and fix them.
-
-Currently pursuing remote roles in **Cloud Security / DevSecOps / Security Operations.**
+Here’s the same tone — direct, grounded — but aligned with where you’re actually going.
 
 ---
 
-## 🛠️ What I'm Working On
+# Hey, I'm Sadiel 👋
 
-- **CloudGuard Pro** — Automated AWS security scanner. Detects misconfigurations across EC2, S3, IAM, and VPC. Runs serverlessly every 24hrs, alerts on critical findings, auto-remediates vulnerabilities.
-- **AI Automation** — Workflow systems, content pipelines, and agent-based tooling using Python and modern AI APIs.
-- **Web3 Experiments** — Wallet-integrated agents and smart contract prototypes. Early stage, always learning.
+I build practical systems at the intersection of **cloud security, automation, AI, and decentralized tech** — tools that actually run, monitor, respond, and improve over time.
+
+I’m not interested in theory projects. I build things that detect real issues, automate real workflows, and create real leverage.
+
+Currently pursuing remote roles in **Cloud Security / DevSecOps / Security Operations**, while building long-term leverage through AI systems and automation-driven services.
 
 ---
 
 ## 🎯 Focus
 
-I'm interested in the overlap between **security engineering and automation** — building systems that make infrastructure safer without requiring constant human attention. I leverage AI tools heavily as a force multiplier, not a replacement for understanding.
+I’m focused on the overlap between **security engineering, automation, and AI agents**.
+
+* Automating detection and response
+* Building infrastructure that secures itself
+* Using AI as a force multiplier — not a crutch
+* Turning repeatable processes into systems
+
+Long term: location-independent, high-income technical work backed by real proof — projects, not just certifications.
 
 ---
 
@@ -25,40 +30,41 @@ I'm interested in the overlap between **security engineering and automation** �
 **Security & Systems**
 Linux · Docker · Nmap · Wireshark · Burp Suite · AWS
 
-**Languages & Frameworks**
-<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="NodeJs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<br clear="left"/>
+**Languages & Development** <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> <img align="left" alt="NodeJs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <br clear="left"/>
 
 **AI & Automation**
-Claude Code · OpenAI · n8n · ElevenLabs · MidJourney
+OpenAI · Claude Code · Gemini · n8n · ElevenLabs · MidJourney
+
+**Exploring**
+Smart contract prototypes · Wallet-integrated systems · AI-driven content engines
 
 ---
 
 ## 📜 Certifications
 
-- CompTIA Network+ 
-- CompTIA Security+ 
-- CompTIA CySA+ 
+* CompTIA Network+
+* CompTIA Security+
+* CompTIA CySA+
+
+Certifications for credibility.
+Projects for proof.
+Systems for freedom.
 
 ---
 
 ## 📊 GitHub Activity
 
-[![Sadiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadiel0&theme=algolia&show_icons=true)](https://github.com/Sadiel0)
+[![Sadiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadiel0\&theme=algolia\&show_icons=true)](https://github.com/Sadiel0)
 
 ---
 
 ## 🌐 Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sadielalmanza/)
-- 🖥️ [Portfolio](https://stalwart-entremet-86e74e.netlify.app/)
-- 📧 [Email](mailto:sadiel.almanza@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/sadielalmanza/)
+* 🖥️ [Portfolio](https://stalwart-entremet-86e74e.netlify.app/)
+* 📧 [Email](mailto:sadiel.almanza@gmail.com)
 
 ---
 
-*Open to remote opportunities in Cloud Security, DevSecOps, and Security Operations.*
+Open to remote opportunities in Cloud Security, DevSecOps, and Security Operations.
+Also building toward AI-driven systems that compound skill, income, and autonomy.
