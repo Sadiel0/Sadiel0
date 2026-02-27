@@ -1,56 +1,64 @@
-# ⚡ Sadiel Almanza — The Operator  
+ Hey, I'm Sadiel 👋
 
-Welcome to my GitHub. I build systems that fuse **AI, automation, Web3, and cybersecurity** into practical tools, creative projects, and business experiments.  
+I build practical tools at the intersection of **cloud security, automation, and AI** — things that actually run, detect real problems, and fix them.
 
----
-
-## 🚀 What I’m Building
-- **AI Agents & Automation** → workflows, LinkedIn/content engines, security automations  
-- **Web3 Experiments** → wallet-integrated agents, smart contract prototypes, decentralized ops  
-- **Growth Stack Services** → AI-powered sites, chatbots, and local business automation  
+Currently pursuing remote roles in **Cloud Security / DevSecOps / Security Operations.**
 
 ---
 
-## 🎯 Mission
-To operate at the edge of **innovation, decentralization, and automation**, creating systems that generate leverage, freedom, and long-term impact.  
+## 🛠️ What I'm Working On
+
+- **CloudGuard Pro** — Automated AWS security scanner. Detects misconfigurations across EC2, S3, IAM, and VPC. Runs serverlessly every 24hrs, alerts on critical findings, auto-remediates vulnerabilities.
+- **AI Automation** — Workflow systems, content pipelines, and agent-based tooling using Python and modern AI APIs.
+- **Web3 Experiments** — Wallet-integrated agents and smart contract prototypes. Early stage, always learning.
 
 ---
 
-## 🖥️ Tech & Tools
+## 🎯 Focus
 
-**Cybersecurity & Systems**  
-Linux · Docker · Nmap · Wireshark · Burp Suite  
+I'm interested in the overlap between **security engineering and automation** — building systems that make infrastructure safer without requiring constant human attention. I leverage AI tools heavily as a force multiplier, not a replacement for understanding.
 
-**Programming & Automation**  
+---
+
+## 🖥️ Tech Stack
+
+**Security & Systems**
+Linux · Docker · Nmap · Wireshark · Burp Suite · AWS
+
+**Languages & Frameworks**
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="NodeJs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="MySql" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
 <br clear="left"/>
 
-**AI & Creative Stack**  
-OpenAI · Gemini · n8n · Veo3 · MidJourney · ElevenLabs · RunwayML  
+**AI & Automation**
+Claude Code · OpenAI · n8n · ElevenLabs · MidJourney
+
+---
+
+## 📜 Certifications
+
+- CompTIA Network+ 
+- CompTIA Security+ 
+- CompTIA CySA+ 
 
 ---
 
 ## 📊 GitHub Activity
+
 [![Sadiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadiel0&theme=algolia&show_icons=true)](https://github.com/Sadiel0)
 
 ---
 
 ## 🌐 Connect
-- 🖤 [Portfolio](https://stalwart-entremet-86e74e.netlify.app/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sadielalmanza/)  
-- 📧 [Email](mailto:sadiel.almanza@gmail.com)  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sadielalmanza/)
+- 🖥️ [Portfolio](https://stalwart-entremet-86e74e.netlify.app/)
+- 📧 [Email](mailto:sadiel.almanza@gmail.com)
 
 ---
 
-### Operator Ethos
-> *Outwork. Outlearn. Outlast.*  
-> Build with **Code, Content, and Capital**.  
-> Freedom through **Innovation, Decentralization, and Automation**.  
-
+*Open to remote opportunities in Cloud Security, DevSecOps, and Security Operations.*
