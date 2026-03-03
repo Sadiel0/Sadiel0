@@ -1,68 +1,105 @@
+# Hi, I’m Sadiel
 
+Security engineer in progress.  
+IT foundation. Cloud focus. Builder mindset.
 
-# Hey, I'm Sadiel 👋
+I work at the intersection of **cloud infrastructure, security engineering, and automation**.  
+Most of what I learn gets turned into a working system.
 
-I build practical systems at the intersection of **cloud security, automation, AI, and decentralized tech** — tools that actually run, monitor, respond, and improve over time.
-
-I’m not interested in theory projects. I build things that detect real issues, automate real workflows, and create real leverage.
-
-Currently pursuing remote roles in **Cloud Security / DevSecOps / Security Operations**, while building long-term leverage through AI systems and automation-driven services.
-
----
-
-## 🎯 Focus
-
-I’m focused on the overlap between **security engineering, automation, and AI agents**.
-
-* Automating detection and response
-* Building infrastructure that secures itself
-* Using AI as a force multiplier — not a crutch
-* Turning repeatable processes into systems
-
-Long term: location-independent, high-income technical work backed by real proof — projects, not just certifications.
+I prefer shipping over talking.
 
 ---
 
-## 🖥️ Tech Stack
+## What I’m Building
 
-**Security & Systems**
-Linux · Docker · Nmap · Wireshark · Burp Suite · AWS
+I focus on practical security engineering problems:
 
-**Languages & Development** <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> <img align="left" alt="NodeJs" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <br clear="left"/>
+- Detecting cloud misconfigurations before they become incidents  
+- Automating remediation instead of generating static reports  
+- Building detection pipelines instead of dashboards that just look good  
+- Designing lightweight SOC-style tooling for small teams  
+- Using AI to accelerate development — not replace understanding  
 
-**AI & Automation**
-OpenAI · Claude Code · Gemini · n8n · ElevenLabs · MidJourney
-
-**Exploring**
-Smart contract prototypes · Wallet-integrated systems · AI-driven content engines
-
----
-
-## 📜 Certifications
-
-* CompTIA Network+
-* CompTIA Security+
-* CompTIA CySA+
-
-Certifications for credibility.
-Projects for proof.
-Systems for freedom.
+Everything here is built with production thinking in mind.
 
 ---
 
-## 📊 GitHub Activity
+## Featured Projects
 
-[![Sadiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadiel0\&theme=algolia\&show_icons=true)](https://github.com/Sadiel0)
+### CloudGuard Pro
+
+Automated AWS security scanner built with Python and boto3.
+
+**Architecture Highlights:**
+- Enumerates EC2, S3, IAM, and VPC configurations
+- Risk classification and severity scoring engine
+- HTML security dashboard generation
+- SNS-based alerting pipeline
+- Auto-remediation via Lambda + EventBridge
+- Modular, extensible service design
+
+This project reflects a core security engineering loop:
+
+> detect → score → alert → remediate
 
 ---
 
-## 🌐 Connect
+### ThreatWatch
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/sadielalmanza/)
-* 🖥️ [Portfolio](https://stalwart-entremet-86e74e.netlify.app/)
-* 📧 [Email](mailto:sadiel.almanza@gmail.com)
+Lightweight SOC-style threat intelligence dashboard.
+
+**Stack:**
+- FastAPI backend
+- Live AbuseIPDB and OTX ingestion
+- Risk scoring and enrichment logic
+- Dockerized deployment
+- Ops-focused frontend
+
+Built to simulate how small security teams operationalize threat intelligence.
 
 ---
 
-Open to remote opportunities in Cloud Security, DevSecOps, and Security Operations.
-Also building toward AI-driven systems that compound skill, income, and autonomy.
+## Core Stack
+
+### Cloud & Infrastructure
+AWS · IAM · EC2 · S3 · VPC · Lambda · EventBridge  
+Linux · Docker  
+
+### Security
+Nmap · Wireshark · Burp Suite  
+Threat intelligence integration  
+Log analysis and detection engineering concepts  
+
+### Development
+Python (primary)  
+FastAPI  
+JavaScript · React · Node.js  
+
+### Automation & AI
+OpenAI · Claude  
+n8n  
+AI-assisted scripting and workflow acceleration  
+
+AI is used as a force multiplier — not a shortcut.
+
+---
+
+## Certifications
+
+- CompTIA Network+  
+- CompTIA Security+  
+- CompTIA CySA+  
+
+Certifications built the foundation.  
+Projects are building the depth.
+
+---
+
+## Current Direction
+
+- Cloud Security Engineering  
+- DevSecOps  
+- Detection Engineering  
+- Security Automation  
+
+If it involves securing cloud infrastructure and automating defense mechanisms, it’s aligned with what I’m building.
